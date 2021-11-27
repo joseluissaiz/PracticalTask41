@@ -7,6 +7,8 @@
     <string name="select_date_and_time">Select date and time</string>
     <string name="date">Date</string>
     <string name="time">Time</string>
+    <string name="list_view">List view</string>
+    <string name="img">img</string>
 
     <string-array name="personAttrib">
         <item>Name</item>
